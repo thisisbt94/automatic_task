@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/ScoreGauge.tsx","./src/components/WorkflowDiagram.tsx","./src/lib/api.ts","./src/lib/useInactivityReset.ts","./src/pages/Admin.tsx","./src/pages/Insights.tsx","./src/pages/Kiosk.tsx","./src/pages/ResultShare.tsx"],"version":"5.9.3"}
